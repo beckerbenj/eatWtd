@@ -1,6 +1,6 @@
 #' Weighted heterogeneous correlation matrix.
 #'
-#' Computes a weighted heterogenous correlation matrix, consisting of Pearson
+#' Computes a weighted heterogeneous correlation matrix, consisting of Pearson
 #'product-moment correlations between numeric variables, polyserial correlations between
 #'numeric and ordinal variables, and polychoric correlations between ordinal variables.
 #'
